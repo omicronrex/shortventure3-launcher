@@ -1,0 +1,48 @@
++util
+	|rect
+	|execute
+	+3d-to-2d by Yourself
+		|prepare_look
+		|execute_look
++game data
+	|load_games
+	|load_judges
+	|load_reviews
+	|load_models
+	|load_g3z
+	|load_tex
+	|load_model_slot
+	|add_game
+	|get_game_data
+|startup_1
+|startup_2
+|finalize
+|launch_game
+|get_texture
+|render_textures
+|draw_scene
+|draw_hud
+|draw_terrain
+|play_music
+|close_button
+|draw_text_craft
+|fun_roll
+|fun_launch
+|fun_read
+|fun_readme
+|button_action
+|start_path
+|draw_loader
+|mcang
+|screen_size_at_distance
+|resize_window
+|center_mouse
+|draw_particle
+|skip_over
+|play_sound_3d
+|format_pages
+|draw_reviews_global
+|draw_reviews_judge
+|draw_rating
+|draw_trophy
+|check_pats_links

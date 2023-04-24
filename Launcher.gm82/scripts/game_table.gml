@@ -1,0 +1,11 @@
+add_game("#I wanna#build resources"              ,0.0,0.0,0.0,0.0,0.0, 0,0,0,0, "maker", "note", "directory","game.exe")
+add_game("#I wanna#craft in space!!"             ,0.0,0.0,0.0,0.0,0.0, 0,0,0,0, "maker", "note", "directory","game.exe")
+add_game("I wanna#drift alone#into space"        ,0.0,0.0,0.0,0.0,0.0, 0,0,0,0, "maker", "note", "directory","game.exe")
+add_game("I Wanna#Find The#Lost Resource"        ,0.0,0.0,0.0,0.0,0.0, 0,0,0,0, "maker", "note", "directory","game.exe")
+add_game("I Wanna#Get My Stuff#Back"             ,0.0,0.0,0.0,0.0,0.0, 0,0,0,0, "maker", "note", "directory","game.exe")
+
+add_game("I wanna#see the#Sun again"             ,0.0,0.0,0.0,0.0,0.0, 0,0,0,0, "maker", "note", "directory","game.exe")
+add_game("I Wanna#Stop the#Production"           ,0.0,0.0,0.0,0.0,0.0, 0,0,0,0, "maker", "note", "directory","game.exe")
+add_game("I Wanna#Try My Best To#DJ This Party"  ,0.0,0.0,0.0,0.0,0.0, 0,0,0,0, "maker", "note", "directory","game.exe")
+add_game("I wanna#build a house#in Minecraft"    ,0.0,0.0,0.0,0.0,0.0, 0,0,0,0, "maker", "note", "directory","game.exe")
+add_game("#SPIKES"                               ,0.0,0.0,0.0,0.0,0.0, 0,0,0,0, "maker", "note", "directory","game.exe")

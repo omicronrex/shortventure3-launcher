@@ -1,0 +1,1 @@
+return lerp(argument0,argument1,0.5+0.5*sin(current_time/35*argument3+argument2)*sin(current_time/76*argument3+argument2)*sin(current_time/43*argument3+argument2)*sin(current_time/53*argument3+argument2))
