@@ -35,6 +35,7 @@ action_id=603
 applies_to=self
 */
 global.creeper_dead=1
+instance_destroy()
 #define Step_2
 /*"/*'/**//* YYD ACTION
 lib_id=1
